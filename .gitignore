@@ -1,6 +1,7 @@
 *.dat
 *file.txt
-results/
+results/data
+
 
 
 
